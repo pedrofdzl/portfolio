@@ -1,0 +1,16 @@
+.bg {
+    background: rgb(21, 21, 21);
+}
+
+.container {
+    width: 60%;
+    height: 100%;
+    margin: 0 auto 0 auto;
+    padding: 1rem;
+}
+
+.name-title {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 60px;
+}

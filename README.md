@@ -42,11 +42,20 @@ IEPAM App es una aplicación web la cual fue diseñada para adultos mayores pero
 
 **Enlace** https://github.com/pedrofdzl/iepam
 
-## IEPAM App (2022)
+## HEB-Route (2023)
 ### Descripción
+HEB-Route es una aplicación en la cual los clientes de heb pueden crear listas de compra directamente con los productos de la sucursal a la que atenderán, estas listas de compra pueden ser colaborativas, lo que permite a familias y grupos de amigos crear listas de compra fácilmente para asegurarse de que ningún producto sea olvidado, dentro de la sucursal se puede generar una ruta de compras dentro de la tienda para recoger los productos sin necesidad de demorarse de más.
 
 ### Stack Técnico
++ React
++ Redux
++ Firebase
++ GCP
 
 ### Imágenes
 
-**Enlace**
+![IMG_3271](https://github.com/Genguin-Corporation/genguin-physics-3.0/assets/77637841/4494574f-0a70-4d48-9bc5-4a8840b467df)
+![IMG_3272](https://github.com/Genguin-Corporation/genguin-physics-3.0/assets/77637841/2a9a566a-71ab-465e-b236-56e9dbcd64f3)
+![IMG_3270](https://github.com/Genguin-Corporation/genguin-physics-3.0/assets/77637841/c3fe7298-1f4b-4fa9-b6a5-1aaf5b2a88c8)
+
+**Enlace** [Repositorio privado]

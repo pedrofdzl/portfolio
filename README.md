@@ -55,15 +55,9 @@ HEB-Route es una aplicación en la cual los clientes de heb pueden crear listas 
 ### Imágenes
 
 <div class="row">
-  <div class="col">
-    <img src="https://github.com/Genguin-Corporation/genguin-physics-3.0/assets/77637841/4494574f-0a70-4d48-9bc5-4a8840b467df" width="300">
-  </div>
-  <div class="col">
-    <img src="https://github.com/Genguin-Corporation/genguin-physics-3.0/assets/77637841/2a9a566a-71ab-465e-b236-56e9dbcd64f3" width="300">
-  </div>
-  <div class="col">
-    <img src="https://github.com/Genguin-Corporation/genguin-physics-3.0/assets/77637841/c3fe7298-1f4b-4fa9-b6a5-1aaf5b2a88c8" width="300">
-  </div>
- </div>
+  <img src="https://github.com/Genguin-Corporation/genguin-physics-3.0/assets/77637841/4494574f-0a70-4d48-9bc5-4a8840b467df" width="300">
+  <img src="https://github.com/Genguin-Corporation/genguin-physics-3.0/assets/77637841/2a9a566a-71ab-465e-b236-56e9dbcd64f3" width="300">
+  <img src="https://github.com/Genguin-Corporation/genguin-physics-3.0/assets/77637841/c3fe7298-1f4b-4fa9-b6a5-1aaf5b2a88c8" width="300">
+</div>
 
 **Enlace** [Repositorio privado]
